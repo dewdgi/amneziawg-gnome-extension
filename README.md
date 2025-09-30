@@ -40,7 +40,7 @@ A GNOME Shell extension that allows you to toggle the **AmneziaWG** (via awg-qui
 
 | Version Name | Version | Gnome Shell Support | Tag    |
 |--------------|---------|---------------------|--------|
-| 1.5.0        | 5       | 49                  | v1.4.0 |
+| 1.5.0        | 5       | 49                  | v1.5.0 |
 
 ## Manual Installation
 
@@ -108,7 +108,7 @@ You can use [this instructions](https://github.com/amnezia-vpn/amneziawg-linux-k
 The command triggered by the extension button requires `sudo` permissions. To avoid entering your password each time you toggle the button, add a sudoers file with the following content:
 
 ```
-io ALL=(ALL:ALL) NOPASSWD: /usr/bin/systemctl
+io ALL=(ALL:ALL) NOPASSWD: /usr/bin/systemctl rewrite this somebody pls i replaced sudo on pkexec, seams reasanoble to me, don't think giving access to systemctl without password is good
 ```
 
 ## License
