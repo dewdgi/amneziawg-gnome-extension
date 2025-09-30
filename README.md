@@ -40,7 +40,7 @@ A GNOME Shell extension that allows you to toggle the **AmneziaWG** (via awg-qui
 
 | Version Name | Version | Gnome Shell Support | Tag    |
 |--------------|---------|---------------------|--------|
-| 1.4.0        | 4       | 40-44               | v1.4.0 |
+| 1.5.0        | 5       | 49                  | v1.4.0 |
 
 ## Manual Installation
 
